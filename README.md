@@ -6,4 +6,6 @@
 
 -Checks and retain reliable variants which are falling within concordant regions of public resources dowloaded for ~200 WGS data
 
--Final check against local 10 WGS datasets for futher filtering step 
+-Check against local 10 WGS datasets for futher filtering step 
+
+-Finally another script to add gene expression FPKM scores from Gene-Epression-BodyMap2.0 public resource for 12 different tissues, annotations for each gene can be added
