@@ -6,3 +6,4 @@
 
 -Checks and retain reliable variants which are falling within concordant regions of public resources dowloaded for ~200 WGS data
 
+-Final check against local 10 WGS datasets for futher filtering step 
