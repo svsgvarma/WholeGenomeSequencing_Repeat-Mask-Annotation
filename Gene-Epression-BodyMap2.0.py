@@ -8,7 +8,7 @@ import subprocess
 #############------------
 
 """
-Script to add gene expression FPKM scores from Gene-Epression-BodyMap2.0 public resource for 12 different tissues, annotation for each gene can be performed
+Script to add gene expression FPKM scores from Gene-Epression-BodyMap2.0 public resource for 16 different tissues, annotation for each gene can be performed
 
 
 INPUT and OUTPUT file for the script:
