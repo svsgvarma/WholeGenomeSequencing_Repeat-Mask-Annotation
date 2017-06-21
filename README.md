@@ -10,7 +10,9 @@
 
 -Finally another script to add gene expression FPKM scores from Gene-Epression-BodyMap2.0 public resource for 12 different tissues, annotations for each gene can be added
 
-# 1.3 Annotation pipeline:
+# Scripts for annotation of WGS
+
+# 1. Annotation pipeline:
 
 After variant calling from GATK, I have annotated with annovar and resulting vcf file was generated (File extension: *_variants_GATK_step2_annovar.hg19_multianno.vcf). To improve further, I have performed series of additional annotation steps as follows. Diagram illustrates the full annotation pipeline in the Figure Supplementary S2.
 
